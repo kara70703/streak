@@ -1,6 +1,2 @@
 # related-to-numbers
-:D
-;-;
-augh
-streak day 4
-
+streak day 1
