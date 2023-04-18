@@ -1,2 +1,2 @@
 # related-to-numbers
-streak day 4
+streak day 5
